@@ -12,7 +12,7 @@
 <a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio010.py">10. - Operadores lógicos </a><br>
 <a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio011.py">11. - Membership operators (Operador Significado) </a><br>
 <a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio012.py">12. - Operadores de identidad </a><br>
-<a href="">13. - </a><br>
+<a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio013.py">13. - </a><br>
 <a href="">14. - </a><br>
 <a href="">15. - </a><br>
 <a href="">16. - </a><br>
