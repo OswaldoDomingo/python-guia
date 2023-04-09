@@ -1,17 +1,17 @@
 # python-guia
 <h1>Programación en Python_ Una guía detallada de los fundamentos de la programación en Python   </h1>
 <h2>Ejercicios del libro</h2>
-<a href="">2. - Strings </a><br>
-<a href="">3. - Asignación de variables</a><br>
-<a href="">4. - Asignación de múltiples variables </a><br>
-<a href="">5. - Asignar el mismo valor a varias variables </a><br>
-<a href="">6. - Assigning multiple variables different values </a><br>
-<a href="">7. - Operadores aritméticos </a><br>
-<a href="">8. - Operadores de comparación </a><br>
-<a href="">9. - Operadores de asignación </a><br>
-<a href="">10. - Operadores lógicos </a><br>
-<a href="">11. - Membership operators (Operador Significado) </a><br>
-<a href="">12. - Operadores de identidad </a><br>
+<a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio002.py">02. - Strings </a><br>
+<a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio003.py">03. - Asignación de variables</a><br>
+<a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio004.py">04. - Asignación de múltiples variables </a><br>
+<a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio005.py">05. - Asignar el mismo valor a varias variables </a><br>
+<a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio006.py">06. - Assigning multiple variables different values </a><br>
+<a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio007.py">07. - Operadores aritméticos </a><br>
+<a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio008.py">08. - Operadores de comparación </a><br>
+<a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio009.py">09. - Operadores de asignación </a><br>
+<a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio010.py">10. - Operadores lógicos </a><br>
+<a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio011.py">11. - Membership operators (Operador Significado) </a><br>
+<a href="https://github.com/OswaldoDomingo/python-guia/blob/main/Ejercicio012.py">12. - Operadores de identidad </a><br>
 <a href="">13. - </a><br>
 <a href="">14. - </a><br>
 <a href="">15. - </a><br>
